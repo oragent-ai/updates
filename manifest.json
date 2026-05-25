@@ -1,19 +1,19 @@
 {
   "schema": 1,
-  "generated_at": "2026-05-22T09:39:03Z",
+  "generated_at": "2026-05-25T08:17:37Z",
   "channels": {
     "stable": {
       "python": {
-        "version": "0.3.7",
+        "version": "0.3.8",
         "pypi_name": "oragent",
         "min_python": "3.11",
         "min_from_version": "0.3.0",
-        "released_at": "2026-05-22T09:39:03Z",
-        "notes_url": "https://github.com/Phinease/claude-code-terminal/releases/tag/v0.3.7",
+        "released_at": "2026-05-25T08:17:37Z",
+        "notes_url": "https://github.com/Phinease/claude-code-terminal/releases/tag/v0.3.8",
         "yanked": false
       },
       "macos": {
-        "version": "0.3.7",
+        "version": "0.3.8",
         "appcast": "https://oragent-ai.github.io/updates/appcast-macos.xml"
       }
     },
